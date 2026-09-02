@@ -1,0 +1,1011 @@
+CustomerID,Age,Gender,TenureYears,MonthlyCharges,TotalCharges,ContractType,PaymentMethod,Churn
+CUST-1000,34.0,Male,3,29.85,1098.2162023846338,Two year,Credit card,No
+CUST-1001,150.0,Female,10,56.95,4544.186090057075,month to month,Mailed check,Yes
+CUST-1002,52.0,M,2,105.5,6144.766597652454,One year,Credit card,No
+CUST-1003,45.0,Female,10,56.95,7529.311737675901,Month-to-month,Bank transfer,Yes
+CUST-1004,25.0,M,3,29.85,225.00305877488444,One year,Mailed check,Yes
+CUST-1005,25.0,Female,8,29.85,4229.805118338772,month to month,Electronic check,No
+CUST-1006,25.0,Female,1,29.85,3819.852114163096,Unknown,Mailed check,No
+CUST-1007,61.0,M,8,56.95,5282.834673608061,One year,Mailed check,No
+CUST-1008,52.0,Male,10,99.99,4520.672950276201,Two year,Electronic check,No
+CUST-1009,52.0,Female,1,29.85,5527.609289601596,Two year,Mailed check,No
+CUST-1010,25.0,Male,0,99.99,5298.852419518604,Unknown,Bank transfer,Yes
+CUST-1011,150.0,,5,105.5,1024.3926263777748,month to month,Credit card,Yes
+CUST-1012,61.0,F,8,56.95,6417.771517587885,m2m,Electronic check,Yes
+CUST-1013,34.0,Male,3,105.5,1073.5373481589663,Two year,Credit card,No
+CUST-1014,25.0,Female,0,56.95,5618.391939152183,Month-to-month,Bank transfer,Yes
+CUST-1015,25.0,F,5,99.99,3387.548404360793,month to month,Electronic check,Yes
+CUST-1016,34.0,Male,3,56.95,4159.420803155123,One year,Credit card,No
+CUST-1017,45.0,Female,2,56.95,7236.054313568114,One year,Credit card,No
+CUST-1018,45.0,F,3,29.85,7130.081439140544,Month-to-month,Bank transfer,No
+CUST-1019,34.0,Male,1,56.95,6561.0648146747335,Two year,Credit card,Yes
+CUST-1020,52.0,Female,1,29.85,4130.172205604954,month to month,Bank transfer,No
+CUST-1021,25.0,Male,2,56.95,5916.294500057282,Month-to-month,Mailed check,Yes
+CUST-1022,34.0,F,0,29.85,4151.886738598594,Two year,Bank transfer,No
+CUST-1023,34.0,,5,,6969.888051550742,month to month,Mailed check,Yes
+CUST-1024,45.0,F,3,99.99,3281.9290825399094,One year,Electronic check,No
+CUST-1025,61.0,Female,1,56.95,7764.859220877527,month to month,Credit card,No
+CUST-1026,25.0,M,0,29.85,7465.349790008133,Unknown,Bank transfer,No
+CUST-1027,45.0,M,2,105.5,5958.660693669106,m2m,Bank transfer,No
+CUST-1028,45.0,Male,10,105.5,2307.385484990969,month to month,Credit card,Yes
+CUST-1029,25.0,M,8,99.99,1140.063351466741,m2m,Credit card,No
+CUST-1030,52.0,Male,10,29.85,6852.15725573626,month to month,Electronic check,No
+CUST-1031,25.0,Female,10,56.95,1405.888060489894,m2m,Electronic check,No
+CUST-1032,25.0,Male,1,29.85,6848.660233078952,Unknown,Bank transfer,No
+CUST-1033,,Male,2,29.85,3977.043553027648,One year,Electronic check,No
+CUST-1034,150.0,Male,3,99.99,3311.7985920840238,Two year,Mailed check,No
+CUST-1035,61.0,Female,10,99.99,7235.20715279199,m2m,Electronic check,Yes
+CUST-1036,34.0,Male,10,56.95,4870.422762068196,Unknown,Electronic check,No
+CUST-1037,25.0,Female,5,105.5,4655.250656324771,m2m,Bank transfer,Yes
+CUST-1038,52.0,Male,1,56.95,4514.250962532741,One year,Mailed check,Yes
+CUST-1039,45.0,Male,1,56.95,3032.239176554298,m2m,Electronic check,No
+CUST-1040,25.0,Female,3,56.95,6306.580517880106,Unknown,Mailed check,No
+CUST-1041,45.0,Female,8,,2097.107707724607,Unknown,Mailed check,No
+CUST-1042,25.0,Male,0,29.85,7517.270184326073,Month-to-month,Mailed check,Yes
+CUST-1043,,Female,5,,7162.48311987099,One year,Credit card,Yes
+CUST-1044,34.0,F,1,105.5,2766.094572831696,Month-to-month,Credit card,No
+CUST-1045,52.0,Female,5,29.85,5862.763781670144,One year,Credit card,Yes
+CUST-1046,34.0,Male,1,56.95,4628.463236151772,m2m,Credit card,No
+CUST-1047,45.0,Male,5,105.5,2767.429485793953,Unknown,Bank transfer,Yes
+CUST-1048,45.0,M,2,56.95,7909.321019164029,Month-to-month,Electronic check,Yes
+CUST-1049,25.0,Male,10,,299.37503220128724,m2m,Credit card,No
+CUST-1050,150.0,M,1,,2095.903641908165,Unknown,Bank transfer,No
+CUST-1051,61.0,Female,5,56.95,4208.585082778088,One year,Electronic check,No
+CUST-1052,,F,0,56.95,4223.428727480655,Unknown,Credit card,No
+CUST-1053,61.0,Female,2,,4752.571292069957,m2m,Electronic check,Yes
+CUST-1054,45.0,,2,99.99,6038.241758981062,Month-to-month,Credit card,No
+CUST-1055,,Male,0,29.85,5025.4748611024415,Month-to-month,Bank transfer,No
+CUST-1056,25.0,Female,5,29.85,4842.223538171492,Unknown,Mailed check,No
+CUST-1057,25.0,Female,3,56.95,522.764257013042,m2m,Mailed check,Yes
+CUST-1058,25.0,Female,0,,3074.589273535457,month to month,Electronic check,No
+CUST-1059,34.0,Female,5,105.5,1933.2403436391323,One year,Bank transfer,No
+CUST-1060,34.0,M,0,99.99,2196.423881655606,One year,Mailed check,No
+CUST-1061,34.0,,0,29.85,4479.266047288725,m2m,Credit card,Yes
+CUST-1062,61.0,Female,1,29.85,1676.0919879439066,month to month,Mailed check,Yes
+CUST-1063,34.0,Female,5,105.5,2422.1978980334907,Month-to-month,Electronic check,No
+CUST-1064,34.0,Female,3,29.85,1972.9691972869864,Two year,Electronic check,No
+CUST-1065,45.0,Female,10,29.85,7593.173251423738,Two year,Bank transfer,No
+CUST-1066,25.0,Male,1,29.85,7562.859284151652,m2m,Electronic check,No
+CUST-1067,61.0,Male,0,99.99,4918.538312908809,month to month,Mailed check,No
+CUST-1068,25.0,Male,10,,7403.727502982009,month to month,Mailed check,Yes
+CUST-1069,-5.0,Male,8,29.85,6307.919899200148,One year,Mailed check,No
+CUST-1070,61.0,Male,10,56.95,4760.588274134289,Month-to-month,Mailed check,Yes
+CUST-1071,25.0,Male,0,99.99,150.83817082468613,Unknown,Bank transfer,No
+CUST-1072,25.0,Male,0,,6202.878660027292,month to month,Credit card,Yes
+CUST-1073,61.0,Male,5,29.85,5649.657898548904,Unknown,Credit card,Yes
+CUST-1074,52.0,,5,56.95,4960.50386093107,Two year,Bank transfer,No
+CUST-1075,52.0,Female,1,56.95,6107.352062291527,Unknown,Electronic check,No
+CUST-1076,61.0,Male,3,105.5,4152.08510172065,Month-to-month,Credit card,No
+CUST-1077,25.0,Female,1,56.95,5662.257843438579,Month-to-month,Electronic check,No
+CUST-1078,34.0,Male,2,29.85,7487.859485139297,Unknown,Credit card,No
+CUST-1079,25.0,F,0,99.99,3068.859625184082,m2m,Electronic check,No
+CUST-1080,61.0,Female,10,99.99,5694.162495714941,month to month,Bank transfer,Yes
+CUST-1081,52.0,Male,8,29.85,3857.9337622865737,m2m,Mailed check,No
+CUST-1082,34.0,Female,0,105.5,5427.757249330454,Unknown,Electronic check,Yes
+CUST-1083,25.0,M,0,29.85,6126.857350879476,month to month,Mailed check,No
+CUST-1084,34.0,F,1,56.95,459.0747534427881,One year,Electronic check,Yes
+CUST-1085,34.0,Female,8,56.95,5208.143507194429,m2m,Electronic check,No
+CUST-1086,52.0,Female,8,99.99,1891.255356814862,m2m,Electronic check,Yes
+CUST-1087,52.0,Male,8,56.95,5393.257048679778,Unknown,Electronic check,No
+CUST-1088,61.0,,1,105.5,3799.8084688771264,Two year,Electronic check,No
+CUST-1089,45.0,Male,0,99.99,6211.066660732609,Unknown,Mailed check,No
+CUST-1090,25.0,F,1,99.99,1074.8664401242115,m2m,Electronic check,No
+CUST-1091,52.0,Female,5,99.99,5047.946578083941,month to month,Mailed check,No
+CUST-1092,61.0,Female,5,99.99,2299.918758527663,Two year,Bank transfer,No
+CUST-1093,45.0,Female,1,29.85,6838.557763111673,Unknown,Credit card,No
+CUST-1094,61.0,Male,8,56.95,7434.229694526829,Unknown,Electronic check,Yes
+CUST-1095,45.0,Male,0,,7971.546520064538,m2m,Credit card,No
+CUST-1096,45.0,Male,1,29.85,6388.458479175538,m2m,Mailed check,No
+CUST-1097,45.0,Male,1,99.99,6054.499156381236,One year,Bank transfer,Yes
+CUST-1098,25.0,Female,1,,1802.4559950536527,Unknown,Bank transfer,No
+CUST-1099,25.0,Male,2,29.85,2754.4557660218597,m2m,Bank transfer,No
+CUST-1100,25.0,Male,5,99.99,3778.892079922008,Month-to-month,Credit card,No
+CUST-1101,52.0,,10,56.95,6209.710277479772,Two year,Mailed check,Yes
+CUST-1102,34.0,F,8,56.95,7328.230334115952,Month-to-month,Electronic check,Yes
+CUST-1103,45.0,F,3,29.85,1594.1988901815785,Two year,Electronic check,Yes
+CUST-1104,,,10,29.85,7386.703128893812,Unknown,Mailed check,No
+CUST-1105,34.0,Male,8,99.99,5595.434753597058,One year,Credit card,Yes
+CUST-1106,45.0,Male,3,105.5,4925.088772411805,m2m,Electronic check,No
+CUST-1107,61.0,Female,2,99.99,1678.746043127322,m2m,Mailed check,No
+CUST-1108,34.0,Female,1,56.95,538.6477591922894,m2m,Electronic check,No
+CUST-1109,25.0,Male,2,29.85,4590.8726982127255,Unknown,Bank transfer,No
+CUST-1110,34.0,M,2,99.99,5246.97389829825,Two year,Electronic check,No
+CUST-1111,25.0,Male,10,29.85,1765.173449902037,m2m,Credit card,No
+CUST-1112,,Male,0,,4496.004026021105,Month-to-month,Mailed check,No
+CUST-1113,61.0,Female,10,105.5,6866.297881824331,m2m,Credit card,No
+CUST-1114,52.0,Female,5,99.99,6697.020969094658,Unknown,Mailed check,Yes
+CUST-1115,61.0,Female,3,,7426.105926631748,One year,Bank transfer,No
+CUST-1116,61.0,Male,1,29.85,2990.4978954993558,Month-to-month,Mailed check,Yes
+CUST-1117,25.0,M,10,99.99,2612.591623152258,m2m,Electronic check,No
+CUST-1118,61.0,Male,3,56.95,6020.465447248388,m2m,Electronic check,Yes
+CUST-1119,45.0,Male,8,,3505.78800026634,month to month,Bank transfer,No
+CUST-1120,61.0,F,3,29.85,791.6344458194668,Two year,Mailed check,No
+CUST-1121,61.0,F,8,99.99,2334.128932296948,Month-to-month,Bank transfer,No
+CUST-1122,34.0,M,10,105.5,3406.800055698764,month to month,Electronic check,No
+CUST-1123,25.0,M,5,29.85,2410.8797612623907,One year,Credit card,Yes
+CUST-1124,34.0,Female,10,56.95,2724.424010483841,Two year,Bank transfer,No
+CUST-1125,45.0,Female,8,99.99,2420.8296587776867,Month-to-month,Credit card,No
+CUST-1126,61.0,Male,3,56.95,427.8434207463276,m2m,Credit card,Yes
+CUST-1127,61.0,Female,3,29.85,5133.048136513096,Month-to-month,Mailed check,No
+CUST-1128,25.0,Male,8,29.85,4818.610120792408,m2m,Bank transfer,No
+CUST-1129,45.0,Male,2,29.85,5261.729637981577,Two year,Credit card,No
+CUST-1130,45.0,Female,5,105.5,1619.248178665657,m2m,Credit card,No
+CUST-1131,34.0,Female,0,56.95,2435.6708787386337,One year,Mailed check,No
+CUST-1132,25.0,Male,1,29.85,4994.965822864886,Unknown,Mailed check,No
+CUST-1133,34.0,Male,3,56.95,4837.057790833379,m2m,Electronic check,Yes
+CUST-1134,,Female,1,56.95,4100.009443898716,One year,Credit card,No
+CUST-1135,34.0,Male,0,29.85,2868.2646750805598,Unknown,Electronic check,No
+CUST-1136,45.0,M,10,56.95,7312.15493772005,Two year,Credit card,No
+CUST-1137,52.0,Female,1,56.95,2784.184914160866,Two year,Electronic check,Yes
+CUST-1138,34.0,Female,0,56.95,3699.391335854288,Month-to-month,Mailed check,Yes
+CUST-1139,-5.0,Female,8,99.99,5457.099264538249,One year,Bank transfer,No
+CUST-1140,150.0,M,2,29.85,4389.869303847437,One year,Mailed check,Yes
+CUST-1141,34.0,Male,3,99.99,2840.399213278646,month to month,Electronic check,No
+CUST-1142,45.0,Female,0,56.95,3541.593844606428,month to month,Electronic check,No
+CUST-1143,34.0,Female,1,56.95,6376.398461042698,Unknown,Bank transfer,No
+CUST-1144,34.0,Male,3,99.99,2297.220328344238,Unknown,Credit card,No
+CUST-1145,25.0,M,2,56.95,1223.816394236842,month to month,Electronic check,No
+CUST-1146,52.0,Female,8,105.5,2573.989294455239,Unknown,Electronic check,Yes
+CUST-1147,45.0,Female,10,99.99,6811.32030235442,m2m,Electronic check,No
+CUST-1148,25.0,M,3,56.95,803.0187473651386,month to month,Bank transfer,Yes
+CUST-1149,34.0,M,10,105.5,7934.398979642369,One year,Mailed check,No
+CUST-1150,,Female,0,99.99,4373.922901528534,m2m,Electronic check,No
+CUST-1151,34.0,M,2,29.85,7880.281377340043,Unknown,Bank transfer,No
+CUST-1152,25.0,Female,1,29.85,7518.071734479223,Two year,Electronic check,No
+CUST-1153,45.0,Female,2,29.85,3677.228342266242,Month-to-month,Credit card,No
+CUST-1154,-5.0,Female,2,105.5,1668.079489382258,month to month,Bank transfer,No
+CUST-1155,34.0,Female,5,99.99,1402.5897348645938,Two year,Electronic check,No
+CUST-1156,52.0,Male,2,,1995.9159745726645,Unknown,Bank transfer,No
+CUST-1157,61.0,F,2,99.99,5710.047860459845,One year,Electronic check,Yes
+CUST-1158,34.0,M,3,56.95,2256.304958378754,Month-to-month,Mailed check,No
+CUST-1159,52.0,Male,1,29.85,2797.259629873957,Two year,Electronic check,No
+CUST-1160,34.0,M,3,99.99,3645.352551557457,Month-to-month,Bank transfer,No
+CUST-1161,52.0,Male,3,56.95,7314.538175329505,month to month,Credit card,Yes
+CUST-1162,52.0,Male,0,,1596.208001290284,Unknown,Credit card,Yes
+CUST-1163,45.0,Female,3,29.85,139.7097656174446,One year,Credit card,No
+CUST-1164,25.0,Male,5,56.95,574.7616419875442,Unknown,Electronic check,No
+CUST-1165,61.0,M,5,99.99,7247.6540992729315,Month-to-month,Mailed check,No
+CUST-1166,34.0,M,10,99.99,5215.380072262568,Two year,Electronic check,Yes
+CUST-1167,25.0,Female,0,56.95,2257.020892689673,month to month,Credit card,No
+CUST-1168,25.0,Male,10,99.99,1499.8207579884097,month to month,Bank transfer,No
+CUST-1169,45.0,Male,10,29.85,2424.707219433203,Unknown,Credit card,No
+CUST-1170,52.0,Female,8,99.99,1006.8957252851128,Two year,Bank transfer,No
+CUST-1171,25.0,,1,99.99,7538.1099912470845,Two year,Mailed check,Yes
+CUST-1172,45.0,Female,1,105.5,6295.228777485608,Month-to-month,Bank transfer,No
+CUST-1173,34.0,Male,3,105.5,3752.890297609072,Unknown,Electronic check,No
+CUST-1174,52.0,Female,3,56.95,6933.204580410095,Unknown,Electronic check,No
+CUST-1175,25.0,Female,8,29.85,2070.719813916535,m2m,Electronic check,Yes
+CUST-1176,52.0,Female,3,,5765.252490930329,Unknown,Bank transfer,Yes
+CUST-1177,34.0,Male,1,56.95,6863.446742208574,month to month,Electronic check,No
+CUST-1178,,Female,10,,2918.472821823854,Month-to-month,Electronic check,No
+CUST-1179,25.0,Female,2,29.85,6083.96911906067,Two year,Electronic check,Yes
+CUST-1180,34.0,,5,99.99,2431.071559188044,Unknown,Mailed check,No
+CUST-1181,25.0,Male,2,105.5,2460.9713685463435,Month-to-month,Bank transfer,No
+CUST-1182,,Female,2,,945.7517105780698,Unknown,Bank transfer,No
+CUST-1183,61.0,F,1,56.95,3576.45856742425,Two year,Credit card,Yes
+CUST-1184,34.0,Male,2,99.99,5864.724061329635,One year,Bank transfer,No
+CUST-1185,52.0,F,8,56.95,7527.744364013151,Two year,Mailed check,Yes
+CUST-1186,61.0,Female,0,29.85,4869.996236239859,Two year,Bank transfer,No
+CUST-1187,45.0,Male,3,99.99,6918.770748112338,Two year,Mailed check,No
+CUST-1188,45.0,Male,0,99.99,6597.707729392794,Unknown,Mailed check,No
+CUST-1189,34.0,Female,10,,1469.4101185047186,m2m,Bank transfer,No
+CUST-1190,25.0,Male,5,56.95,3937.9576884097887,Two year,Credit card,No
+CUST-1191,61.0,Female,3,29.85,1023.6959306505928,month to month,Electronic check,No
+CUST-1192,,Male,2,29.85,5489.009976336916,month to month,Electronic check,No
+CUST-1193,52.0,Female,5,56.95,7604.207379144,Month-to-month,Bank transfer,Yes
+CUST-1194,34.0,Male,3,56.95,1183.0067188221765,m2m,Bank transfer,Yes
+CUST-1195,34.0,M,8,99.99,5897.676733340077,Month-to-month,Mailed check,No
+CUST-1196,52.0,,8,56.95,5094.681391856101,month to month,Bank transfer,No
+CUST-1197,61.0,,8,,4710.479792363988,month to month,Mailed check,No
+CUST-1198,61.0,Female,8,,3181.94985403788,One year,Credit card,No
+CUST-1199,61.0,Male,2,99.99,2905.5400172551194,Two year,Bank transfer,Yes
+CUST-1200,52.0,Female,0,,457.4685932492141,month to month,Electronic check,No
+CUST-1201,25.0,Male,3,99.99,1821.4787951909063,Unknown,Electronic check,No
+CUST-1202,25.0,Male,2,56.95,219.89737006593248,Unknown,Bank transfer,Yes
+CUST-1203,61.0,Male,8,29.85,4693.195134097962,Month-to-month,Mailed check,No
+CUST-1204,52.0,Female,10,56.95,936.24056343548,Month-to-month,Electronic check,No
+CUST-1205,25.0,Female,0,56.95,6996.853212834757,Two year,Mailed check,No
+CUST-1206,25.0,Female,10,105.5,4232.829863507605,Two year,Bank transfer,No
+CUST-1207,52.0,Female,5,56.95,5627.5502815637965,One year,Bank transfer,No
+CUST-1208,25.0,Male,10,105.5,3345.771025539922,m2m,Electronic check,Yes
+CUST-1209,25.0,,5,99.99,4528.580491108284,Month-to-month,Bank transfer,Yes
+CUST-1210,45.0,Female,5,29.85,7547.007498036381,Two year,Credit card,No
+CUST-1211,52.0,Female,8,,753.5989130269991,Month-to-month,Credit card,Yes
+CUST-1212,52.0,Male,5,56.95,2106.1083981972,Two year,Electronic check,No
+CUST-1213,34.0,Female,1,56.95,6261.9077825933,month to month,Credit card,Yes
+CUST-1214,52.0,Female,3,99.99,880.0239343730602,Month-to-month,Mailed check,No
+CUST-1215,34.0,Male,3,29.85,697.7227208424757,month to month,Electronic check,Yes
+CUST-1216,34.0,Male,8,99.99,2956.177050156905,Month-to-month,Electronic check,Yes
+CUST-1217,52.0,Female,1,56.95,828.1268719322153,m2m,Mailed check,No
+CUST-1218,52.0,Female,10,56.95,4722.119693429005,One year,Credit card,Yes
+CUST-1219,61.0,Male,2,,1887.5744814511384,Unknown,Credit card,Yes
+CUST-1220,52.0,F,10,56.95,7176.013909275041,Unknown,Credit card,Yes
+CUST-1221,45.0,Male,2,29.85,6289.650638677528,Unknown,Electronic check,No
+CUST-1222,25.0,Female,5,56.95,5627.671128185862,month to month,Electronic check,Yes
+CUST-1223,34.0,F,0,,4973.857816337565,Two year,Credit card,Yes
+CUST-1224,34.0,Female,2,29.85,6921.379269697561,Unknown,Bank transfer,No
+CUST-1225,34.0,Female,0,29.85,1862.1902861877795,m2m,Credit card,Yes
+CUST-1226,-5.0,Male,3,29.85,6997.559857837398,Unknown,Mailed check,No
+CUST-1227,34.0,Male,0,29.85,6336.989157550013,Month-to-month,Electronic check,No
+CUST-1228,61.0,,3,105.5,6010.470528462716,month to month,Mailed check,No
+CUST-1229,52.0,Female,1,99.99,4533.9198567919,Month-to-month,Mailed check,No
+CUST-1230,61.0,F,1,56.95,2045.3288716677407,Month-to-month,Electronic check,No
+CUST-1231,45.0,Male,8,99.99,3446.028536335981,Month-to-month,Bank transfer,No
+CUST-1232,45.0,Male,8,56.95,6369.208170856533,One year,Credit card,Yes
+CUST-1233,45.0,Male,5,,351.0500264228631,One year,Mailed check,No
+CUST-1234,25.0,Female,2,,6278.20107718369,Two year,Electronic check,No
+CUST-1235,52.0,Male,5,56.95,1996.5588498517752,month to month,Mailed check,No
+CUST-1236,34.0,M,3,105.5,1240.042685700664,m2m,Credit card,No
+CUST-1237,25.0,Female,5,99.99,1014.040413624387,m2m,Bank transfer,Yes
+CUST-1238,52.0,,0,56.95,315.27509441143934,m2m,Bank transfer,No
+CUST-1239,25.0,Male,3,29.85,4236.333233249478,Month-to-month,Bank transfer,Yes
+CUST-1240,,M,8,56.95,1824.2529942804629,One year,Electronic check,No
+CUST-1241,150.0,Female,1,99.99,7916.510949659089,month to month,Electronic check,No
+CUST-1242,,Female,8,,4638.050371390425,Month-to-month,Bank transfer,No
+CUST-1243,34.0,M,2,99.99,1189.2936279124824,One year,Credit card,No
+CUST-1244,25.0,Female,3,105.5,5541.2240724097865,One year,Credit card,No
+CUST-1245,,Female,3,99.99,7192.17417542683,Unknown,Electronic check,No
+CUST-1246,45.0,Male,0,105.5,5986.918013419953,Unknown,Bank transfer,No
+CUST-1247,150.0,Male,2,99.99,703.8749022116366,month to month,Credit card,Yes
+CUST-1248,150.0,F,1,56.95,7177.48503142201,month to month,Credit card,No
+CUST-1249,61.0,Female,10,56.95,6372.042148293722,month to month,Credit card,No
+CUST-1250,34.0,Female,3,105.5,1350.6008108343533,Month-to-month,Electronic check,No
+CUST-1251,34.0,Female,3,29.85,509.1085209892533,Two year,Bank transfer,No
+CUST-1252,61.0,Male,0,105.5,4502.7535449830375,month to month,Mailed check,Yes
+CUST-1253,34.0,Male,5,29.85,1332.6829095858177,Unknown,Bank transfer,No
+CUST-1254,25.0,Female,1,56.95,6693.268525502649,Two year,Bank transfer,No
+CUST-1255,45.0,Female,8,105.5,2930.8437877062224,Month-to-month,Electronic check,Yes
+CUST-1256,,Male,2,29.85,7311.850313418946,Two year,Credit card,No
+CUST-1257,52.0,Female,3,29.85,4568.9365599139455,m2m,Credit card,No
+CUST-1258,45.0,Male,3,56.95,1543.1118354933783,Two year,Electronic check,No
+CUST-1259,25.0,Female,8,105.5,1202.8310521424207,month to month,Electronic check,No
+CUST-1260,52.0,Male,1,29.85,4654.132256706256,Month-to-month,Electronic check,Yes
+CUST-1261,-5.0,Female,5,,6118.880533713307,month to month,Electronic check,Yes
+CUST-1262,25.0,Male,3,29.85,6273.894617163239,Unknown,Electronic check,Yes
+CUST-1263,45.0,Female,1,,2278.4834950861223,m2m,Mailed check,No
+CUST-1264,61.0,Male,8,,1713.549395406123,Unknown,Bank transfer,No
+CUST-1265,52.0,Male,0,56.95,232.37480548982103,month to month,Bank transfer,Yes
+CUST-1266,52.0,Male,5,56.95,5465.673294489238,month to month,Bank transfer,No
+CUST-1267,52.0,Female,2,56.95,704.889241624958,month to month,Credit card,No
+CUST-1268,34.0,Female,3,99.99,3424.013493950814,One year,Mailed check,No
+CUST-1269,34.0,Male,1,29.85,4853.289095744539,m2m,Bank transfer,No
+CUST-1270,61.0,Female,0,29.85,7503.160664865448,month to month,Credit card,No
+CUST-1271,61.0,M,2,29.85,2563.2368819505723,month to month,Mailed check,Yes
+CUST-1272,61.0,Female,10,56.95,2073.200083327506,Unknown,Mailed check,Yes
+CUST-1273,,Male,1,29.85,5267.865218860177,Unknown,Credit card,No
+CUST-1274,45.0,Female,1,99.99,4991.988353223295,month to month,Mailed check,No
+CUST-1275,45.0,Male,2,,2723.667288134184,Month-to-month,Credit card,No
+CUST-1276,61.0,Male,0,56.95,7432.004500527313,One year,Bank transfer,Yes
+CUST-1277,52.0,,10,56.95,6774.412387168099,Unknown,Credit card,No
+CUST-1278,52.0,Male,8,56.95,1869.462112334141,Month-to-month,Mailed check,Yes
+CUST-1279,61.0,Female,0,105.5,1989.226108932733,One year,Bank transfer,No
+CUST-1280,61.0,Female,5,,4147.1727404079365,month to month,Bank transfer,No
+CUST-1281,34.0,Female,3,105.5,6211.219603672691,m2m,Electronic check,No
+CUST-1282,34.0,Female,2,,447.9189971688687,Two year,Electronic check,Yes
+CUST-1283,25.0,Male,8,29.85,5577.347714504183,Two year,Mailed check,No
+CUST-1284,45.0,Male,10,105.5,5221.063589318566,month to month,Credit card,No
+CUST-1285,25.0,Female,2,99.99,1928.692757712607,Unknown,Credit card,No
+CUST-1286,45.0,Male,2,29.85,5482.688804606655,Month-to-month,Mailed check,Yes
+CUST-1287,45.0,Male,0,,7527.447210891452,m2m,Bank transfer,Yes
+CUST-1288,34.0,Male,3,29.85,469.6081752769713,One year,Mailed check,No
+CUST-1289,45.0,Male,5,99.99,2625.251236807294,month to month,Mailed check,Yes
+CUST-1290,25.0,Male,1,29.85,3561.5960616642064,m2m,Bank transfer,No
+CUST-1291,25.0,Male,1,56.95,7204.156835505048,m2m,Credit card,No
+CUST-1292,61.0,Female,2,99.99,7701.865428212338,Unknown,Mailed check,No
+CUST-1293,34.0,Female,3,56.95,3608.510447321025,One year,Credit card,No
+CUST-1294,25.0,M,10,56.95,6025.22445592331,m2m,Mailed check,Yes
+CUST-1295,45.0,Male,10,56.95,4300.122087739415,Unknown,Bank transfer,Yes
+CUST-1296,61.0,Male,8,105.5,4348.485184456875,Month-to-month,Bank transfer,No
+CUST-1297,34.0,Male,0,29.85,2296.986169024216,Unknown,Electronic check,No
+CUST-1298,52.0,Female,3,56.95,1813.954342324648,Month-to-month,Bank transfer,Yes
+CUST-1299,25.0,Female,3,,2375.242232799925,Month-to-month,Electronic check,Yes
+CUST-1300,25.0,Male,0,105.5,4494.991257330927,m2m,Mailed check,No
+CUST-1301,45.0,F,10,56.95,330.32596957450306,Unknown,Credit card,Yes
+CUST-1302,45.0,Male,10,99.99,7267.266660415606,Month-to-month,Bank transfer,No
+CUST-1303,52.0,Female,10,105.5,1334.641305443232,One year,Bank transfer,No
+CUST-1304,52.0,Female,2,105.5,1838.7005472839537,m2m,Bank transfer,Yes
+CUST-1305,-5.0,M,3,56.95,4194.381793936406,Unknown,Mailed check,No
+CUST-1306,45.0,Female,1,29.85,5709.906654064506,Unknown,Electronic check,No
+CUST-1307,34.0,M,0,29.85,856.2595324807387,Two year,Mailed check,No
+CUST-1308,61.0,Male,10,29.85,2609.7881106225814,Unknown,Credit card,Yes
+CUST-1309,34.0,M,8,56.95,7752.529384037422,m2m,Mailed check,Yes
+CUST-1310,45.0,Male,10,29.85,2172.509437569471,One year,Credit card,No
+CUST-1311,25.0,F,10,99.99,2573.0961459988603,Unknown,Bank transfer,No
+CUST-1312,25.0,Female,5,56.95,6708.338075882464,Two year,Credit card,No
+CUST-1313,150.0,M,2,29.85,496.6940103545965,m2m,Credit card,No
+CUST-1314,61.0,Female,0,105.5,3770.44403359087,Month-to-month,Electronic check,No
+CUST-1315,52.0,Female,5,56.95,3098.972439168195,month to month,Credit card,Yes
+CUST-1316,45.0,Female,5,29.85,2601.035403278344,month to month,Credit card,No
+CUST-1317,25.0,Female,8,105.5,2357.02679295364,Month-to-month,Mailed check,No
+CUST-1318,25.0,Male,3,29.85,821.8554283972327,Unknown,Bank transfer,No
+CUST-1319,34.0,Male,8,99.99,2587.124051878025,month to month,Mailed check,No
+CUST-1320,45.0,Male,3,99.99,440.1139814537817,month to month,Mailed check,Yes
+CUST-1321,52.0,Male,3,56.95,6269.614522791038,Month-to-month,Bank transfer,No
+CUST-1322,52.0,M,0,105.5,3245.999572268292,Unknown,Bank transfer,No
+CUST-1323,34.0,Male,10,56.95,3606.8402753273017,Unknown,Credit card,No
+CUST-1324,150.0,,0,56.95,7159.397232956039,Month-to-month,Credit card,No
+CUST-1325,52.0,Male,2,29.85,5298.634372503644,Unknown,Electronic check,No
+CUST-1326,45.0,Male,3,29.85,163.66691640274632,Unknown,Mailed check,No
+CUST-1327,52.0,Female,5,,7551.081101394151,m2m,Bank transfer,No
+CUST-1328,45.0,Female,10,56.95,1973.4412812239184,m2m,Credit card,No
+CUST-1329,34.0,Female,1,56.95,950.1520596028848,Month-to-month,Bank transfer,No
+CUST-1330,34.0,Female,2,56.95,6168.212609208969,One year,Credit card,No
+CUST-1331,61.0,Female,0,56.95,4053.7707953470735,month to month,Electronic check,Yes
+CUST-1332,25.0,Male,8,29.85,3526.7874715423386,m2m,Electronic check,No
+CUST-1333,25.0,,2,56.95,2071.07432949366,month to month,Bank transfer,No
+CUST-1334,25.0,,2,99.99,4425.024769912317,Two year,Electronic check,No
+CUST-1335,25.0,Female,10,29.85,2267.6383811004407,Month-to-month,Bank transfer,No
+CUST-1336,61.0,Male,2,29.85,7222.505741767834,One year,Credit card,Yes
+CUST-1337,52.0,Female,2,29.85,1800.115389892223,Two year,Mailed check,No
+CUST-1338,45.0,Male,1,56.95,7086.405688600453,Two year,Electronic check,Yes
+CUST-1339,25.0,Male,8,105.5,4519.30286324612,Unknown,Credit card,No
+CUST-1340,45.0,Male,8,29.85,6645.056257772404,Two year,Mailed check,No
+CUST-1341,45.0,Female,8,29.85,5731.483367301545,Month-to-month,Mailed check,Yes
+CUST-1342,25.0,M,3,56.95,5603.891380350314,m2m,Mailed check,No
+CUST-1343,45.0,Female,5,99.99,2662.33188079094,Month-to-month,Credit card,No
+CUST-1344,34.0,Female,8,99.99,1947.7857586304076,m2m,Credit card,No
+CUST-1345,52.0,Female,2,56.95,1766.0011986782265,Two year,Bank transfer,Yes
+CUST-1346,52.0,Male,2,99.99,6871.81409077075,Two year,Mailed check,No
+CUST-1347,25.0,Male,8,99.99,6581.371880046258,One year,Mailed check,Yes
+CUST-1348,34.0,,10,105.5,3580.530871297228,m2m,Mailed check,No
+CUST-1349,52.0,Male,8,105.5,1145.9964466219917,Two year,Bank transfer,Yes
+CUST-1350,45.0,M,2,29.85,3119.792790621921,Unknown,Mailed check,No
+CUST-1351,61.0,Female,3,29.85,4992.8132876816,month to month,Credit card,Yes
+CUST-1352,52.0,Female,0,29.85,3689.784920391628,One year,Mailed check,No
+CUST-1353,25.0,Female,0,56.95,6263.49522101566,Month-to-month,Electronic check,Yes
+CUST-1354,25.0,Female,8,,7981.220295785944,One year,Credit card,No
+CUST-1355,52.0,M,1,56.95,1609.943498746285,month to month,Bank transfer,No
+CUST-1356,25.0,F,8,29.85,3731.2414753106223,m2m,Mailed check,No
+CUST-1357,45.0,Female,10,99.99,3504.772825174494,Month-to-month,Electronic check,No
+CUST-1358,,Male,8,56.95,2505.491008716712,Month-to-month,Bank transfer,No
+CUST-1359,45.0,Female,0,29.85,1664.9545820902877,m2m,Bank transfer,Yes
+CUST-1360,34.0,F,2,56.95,618.9677202683079,One year,Credit card,Yes
+CUST-1361,52.0,Male,8,56.95,7108.242606067218,Two year,Bank transfer,No
+CUST-1362,45.0,Female,2,99.99,3416.804711721909,One year,Bank transfer,Yes
+CUST-1363,45.0,Female,2,29.85,4025.474596150386,month to month,Bank transfer,No
+CUST-1364,,Female,1,29.85,7343.8421807872355,Unknown,Bank transfer,No
+CUST-1365,34.0,Male,2,56.95,6232.694772375988,Two year,Mailed check,Yes
+CUST-1366,150.0,Female,0,29.85,1130.9599865257553,One year,Mailed check,No
+CUST-1367,,F,3,99.99,4566.817744101165,Unknown,Mailed check,Yes
+CUST-1368,25.0,Male,3,56.95,3593.792984504517,Unknown,Mailed check,No
+CUST-1369,25.0,Male,5,56.95,6397.967473372226,m2m,Electronic check,No
+CUST-1370,25.0,,10,,5821.437126134399,month to month,Mailed check,No
+CUST-1371,25.0,Male,8,99.99,5554.205203097468,month to month,Bank transfer,No
+CUST-1372,25.0,M,10,29.85,2790.304200291185,month to month,Mailed check,No
+CUST-1373,52.0,Female,0,56.95,6459.213470154111,Two year,Mailed check,Yes
+CUST-1374,25.0,Male,2,99.99,513.8912351994036,Month-to-month,Credit card,Yes
+CUST-1375,34.0,M,3,99.99,1361.0367213141212,Two year,Bank transfer,Yes
+CUST-1376,61.0,Female,10,29.85,2751.4238565255027,One year,Mailed check,No
+CUST-1377,25.0,Female,0,,706.7787844473221,Unknown,Mailed check,No
+CUST-1378,61.0,Male,3,56.95,1956.454792524064,Unknown,Mailed check,No
+CUST-1379,34.0,Female,2,29.85,6658.192765683553,Month-to-month,Electronic check,No
+CUST-1380,25.0,Male,10,29.85,7591.187148541627,One year,Mailed check,No
+CUST-1381,52.0,Male,3,29.85,2506.3586106161047,Month-to-month,Credit card,Yes
+CUST-1382,52.0,,8,105.5,2189.674851511822,Unknown,Bank transfer,No
+CUST-1383,61.0,Male,8,29.85,2311.1519527467726,Two year,Bank transfer,No
+CUST-1384,52.0,Female,5,29.85,2293.9807900716664,month to month,Mailed check,No
+CUST-1385,61.0,Male,5,105.5,383.84843926918666,Unknown,Mailed check,No
+CUST-1386,34.0,Female,3,56.95,7422.639136015754,m2m,Mailed check,No
+CUST-1387,25.0,Male,0,29.85,1788.2153184055944,month to month,Bank transfer,Yes
+CUST-1388,61.0,,8,29.85,3418.032185243099,Unknown,Bank transfer,No
+CUST-1389,61.0,Female,0,29.85,176.52637365364512,Two year,Electronic check,Yes
+CUST-1390,-5.0,Male,0,29.85,6877.845218228952,Month-to-month,Credit card,No
+CUST-1391,45.0,Male,3,99.99,5876.143021193846,month to month,Electronic check,No
+CUST-1392,34.0,Male,0,29.85,7579.372677872256,Two year,Credit card,No
+CUST-1393,61.0,Female,8,29.85,6274.762285651553,One year,Electronic check,Yes
+CUST-1394,34.0,Male,2,99.99,2578.2814452113157,m2m,Bank transfer,Yes
+CUST-1395,,M,5,99.99,2058.1995339545465,month to month,Electronic check,No
+CUST-1396,61.0,Female,2,56.95,5611.958829671014,Month-to-month,Credit card,No
+CUST-1397,45.0,Male,0,56.95,2976.4909225829456,One year,Mailed check,No
+CUST-1398,61.0,Female,2,56.95,4573.098624445671,Two year,Credit card,No
+CUST-1399,61.0,Female,8,56.95,149.4340211091148,m2m,Mailed check,Yes
+CUST-1400,25.0,Male,8,56.95,588.8970432757544,Month-to-month,Bank transfer,No
+CUST-1401,,Male,0,56.95,4329.406735335045,Two year,Credit card,No
+CUST-1402,45.0,Male,3,,4571.9660069405045,Two year,Electronic check,No
+CUST-1403,61.0,Female,2,29.85,6036.478261228815,month to month,Credit card,No
+CUST-1404,34.0,Female,3,99.99,1142.5260250292977,month to month,Mailed check,No
+CUST-1405,61.0,Female,3,29.85,4154.146361678552,Month-to-month,Bank transfer,No
+CUST-1406,34.0,M,1,99.99,1636.13639101034,Unknown,Electronic check,Yes
+CUST-1407,25.0,M,0,99.99,836.2493445452881,Unknown,Credit card,Yes
+CUST-1408,,Female,5,105.5,3342.916773078381,Two year,Mailed check,No
+CUST-1409,25.0,M,8,29.85,1390.3595199035522,month to month,Electronic check,Yes
+CUST-1410,34.0,Male,8,56.95,1852.077627719317,m2m,Bank transfer,No
+CUST-1411,150.0,Male,0,56.95,2608.681180969064,m2m,Electronic check,No
+CUST-1412,150.0,Male,10,99.99,2149.1683658712504,Two year,Bank transfer,No
+CUST-1413,45.0,Male,10,56.95,791.9712495069765,month to month,Electronic check,No
+CUST-1414,52.0,Female,10,56.95,810.3383343916481,Month-to-month,Credit card,No
+CUST-1415,45.0,F,5,56.95,1626.6703803499286,Month-to-month,Mailed check,No
+CUST-1416,34.0,Male,8,56.95,499.4175848803577,Month-to-month,Credit card,No
+CUST-1417,34.0,Male,0,56.95,5049.010455447724,m2m,Credit card,Yes
+CUST-1418,52.0,Female,8,29.85,2369.8810604203254,month to month,Bank transfer,No
+CUST-1419,61.0,F,3,,2309.993145375661,month to month,Bank transfer,No
+CUST-1420,61.0,Male,2,99.99,2722.7865244783447,m2m,Bank transfer,No
+CUST-1421,61.0,Female,2,,5336.090566256801,Month-to-month,Credit card,No
+CUST-1422,25.0,Male,8,29.85,6978.007663719575,Month-to-month,Electronic check,No
+CUST-1423,45.0,Male,1,105.5,6096.786767189544,Two year,Electronic check,Yes
+CUST-1424,25.0,,5,105.5,5847.48091877825,Unknown,Credit card,No
+CUST-1425,45.0,,10,99.99,3926.690366246709,One year,Credit card,No
+CUST-1426,45.0,Male,5,99.99,5581.063900042553,Unknown,Mailed check,No
+CUST-1427,61.0,F,5,56.95,4466.822707465307,month to month,Bank transfer,No
+CUST-1428,34.0,Female,3,105.5,1808.3791726735783,month to month,Bank transfer,No
+CUST-1429,25.0,M,5,56.95,1747.8481051543006,month to month,Credit card,No
+CUST-1430,25.0,Female,2,29.85,2441.4968543147397,Unknown,Credit card,No
+CUST-1431,61.0,Female,3,56.95,7295.341100661525,One year,Electronic check,No
+CUST-1432,52.0,Female,0,,4424.577238999835,Two year,Credit card,No
+CUST-1433,25.0,Female,5,105.5,5897.852478314769,Unknown,Electronic check,Yes
+CUST-1434,25.0,Male,5,,2837.814202550726,One year,Credit card,No
+CUST-1435,52.0,Male,0,99.99,3320.9545882552798,Month-to-month,Mailed check,Yes
+CUST-1436,25.0,Male,5,29.85,1091.9680712342858,Month-to-month,Mailed check,Yes
+CUST-1437,61.0,Female,0,29.85,1453.230166791196,month to month,Electronic check,No
+CUST-1438,52.0,Male,3,29.85,6636.11678312655,m2m,Bank transfer,No
+CUST-1439,25.0,Female,2,29.85,4720.225190342168,month to month,Mailed check,No
+CUST-1440,25.0,,0,56.95,2766.506480482169,m2m,Electronic check,No
+CUST-1441,-5.0,Male,1,29.85,6442.524551064813,One year,Credit card,No
+CUST-1442,34.0,Female,0,56.95,2047.5072545400656,Month-to-month,Credit card,Yes
+CUST-1443,34.0,Female,5,,7810.65831894161,Unknown,Electronic check,Yes
+CUST-1444,61.0,M,10,56.95,2824.0591011947413,m2m,Bank transfer,No
+CUST-1445,,Male,10,105.5,2764.756537794698,One year,Electronic check,No
+CUST-1446,-5.0,Female,3,99.99,2564.1040537399717,Month-to-month,Electronic check,No
+CUST-1447,61.0,M,8,29.85,1064.6809758018746,Unknown,Mailed check,Yes
+CUST-1448,34.0,F,3,56.95,977.983463922898,m2m,Electronic check,No
+CUST-1449,25.0,Female,8,29.85,5220.029772819575,month to month,Electronic check,No
+CUST-1450,61.0,Female,10,56.95,7013.432552008571,month to month,Credit card,Yes
+CUST-1451,45.0,Female,10,99.99,6345.11203114622,month to month,Mailed check,No
+CUST-1452,45.0,M,0,29.85,1214.7499927686736,One year,Credit card,Yes
+CUST-1453,,Female,2,29.85,4410.098762157325,month to month,Credit card,No
+CUST-1454,25.0,Male,1,56.95,934.173213215456,Two year,Bank transfer,No
+CUST-1455,45.0,F,3,,457.8276845433118,Month-to-month,Bank transfer,Yes
+CUST-1456,25.0,Female,5,99.99,5285.448289139661,One year,Mailed check,No
+CUST-1457,45.0,Female,8,99.99,4327.703436074768,Unknown,Mailed check,No
+CUST-1458,25.0,Male,5,29.85,747.9871131706198,month to month,Bank transfer,No
+CUST-1459,25.0,Female,2,99.99,376.0200466073087,Month-to-month,Bank transfer,No
+CUST-1460,25.0,Male,8,99.99,7919.075665933744,m2m,Bank transfer,No
+CUST-1461,52.0,Female,3,99.99,337.16852397766786,month to month,Bank transfer,No
+CUST-1462,52.0,Male,0,,3611.773199096261,Month-to-month,Bank transfer,No
+CUST-1463,45.0,Female,5,56.95,4086.490294400795,Two year,Credit card,No
+CUST-1464,150.0,,2,,1026.513167623516,m2m,Mailed check,Yes
+CUST-1465,34.0,Male,3,,1435.5880496737584,Two year,Credit card,Yes
+CUST-1466,34.0,,10,29.85,2879.2595506417847,Unknown,Credit card,No
+CUST-1467,61.0,Female,10,56.95,6117.239422087935,Month-to-month,Electronic check,No
+CUST-1468,34.0,M,3,,4105.951150076107,Two year,Credit card,No
+CUST-1469,150.0,Female,3,29.85,5139.424808968396,Unknown,Bank transfer,No
+CUST-1470,25.0,Female,3,56.95,7882.878985216331,Month-to-month,Bank transfer,Yes
+CUST-1471,150.0,Female,8,,6167.242938974357,Month-to-month,Electronic check,Yes
+CUST-1472,25.0,M,3,56.95,3531.45583531562,Two year,Electronic check,No
+CUST-1473,61.0,Female,5,29.85,3626.891182192735,Month-to-month,Electronic check,No
+CUST-1474,45.0,Male,2,56.95,4988.29940862394,month to month,Electronic check,No
+CUST-1475,-5.0,Female,8,29.85,5356.385146509344,Month-to-month,Electronic check,No
+CUST-1476,25.0,M,3,56.95,4055.616314109704,One year,Credit card,No
+CUST-1477,45.0,Female,1,29.85,5194.403660238341,Unknown,Electronic check,Yes
+CUST-1478,150.0,Female,1,99.99,285.90670587138027,Month-to-month,Credit card,Yes
+CUST-1479,45.0,Female,2,56.95,3494.020624785069,One year,Mailed check,No
+CUST-1480,52.0,M,10,99.99,2303.6108009804666,Month-to-month,Electronic check,No
+CUST-1481,52.0,Male,0,99.99,1120.478117420572,Month-to-month,Electronic check,Yes
+CUST-1482,45.0,Female,0,56.95,886.4174511893235,Two year,Credit card,No
+CUST-1483,52.0,Male,10,99.99,4865.2181083558735,month to month,Mailed check,No
+CUST-1484,45.0,Male,8,29.85,4236.444322505633,Unknown,Credit card,No
+CUST-1485,,Male,8,56.95,2103.3145242713163,month to month,Credit card,Yes
+CUST-1486,25.0,Male,8,29.85,3820.5054643028648,m2m,Electronic check,No
+CUST-1487,34.0,Female,0,,3988.635289941025,Two year,Bank transfer,No
+CUST-1488,150.0,Male,1,29.85,1640.5709454650648,Two year,Bank transfer,Yes
+CUST-1489,61.0,Female,0,56.95,5251.53518886504,month to month,Credit card,Yes
+CUST-1490,45.0,Male,5,99.99,6269.262915450115,Two year,Electronic check,Yes
+CUST-1491,52.0,Male,3,56.95,6352.5619730272,month to month,Mailed check,No
+CUST-1492,34.0,Male,8,29.85,4859.511662557295,Two year,Bank transfer,No
+CUST-1493,25.0,Male,1,56.95,4141.944801900211,Month-to-month,Mailed check,Yes
+CUST-1494,45.0,Female,2,99.99,581.9564297426197,month to month,Bank transfer,Yes
+CUST-1495,34.0,Female,2,99.99,2373.8672609276864,month to month,Electronic check,No
+CUST-1496,45.0,Female,3,56.95,836.8444295475422,One year,Credit card,No
+CUST-1497,25.0,Female,1,56.95,7714.202970939942,Two year,Mailed check,Yes
+CUST-1498,-5.0,Male,0,56.95,1167.1331551835096,Two year,Mailed check,Yes
+CUST-1499,-5.0,M,0,99.99,1299.025737823706,month to month,Credit card,No
+CUST-1500,52.0,Female,5,56.95,7127.655284810889,Month-to-month,Mailed check,No
+CUST-1501,45.0,Female,5,56.95,7557.033439464017,Month-to-month,Bank transfer,No
+CUST-1502,34.0,Male,0,29.85,6150.049409955788,Unknown,Credit card,No
+CUST-1503,61.0,Male,2,29.85,142.69889701409198,Month-to-month,Bank transfer,No
+CUST-1504,52.0,Male,8,29.85,110.63554055685324,Two year,Bank transfer,No
+CUST-1505,25.0,Male,2,29.85,3086.9960813208613,One year,Electronic check,No
+CUST-1506,,Female,5,56.95,1232.823423086051,month to month,Bank transfer,No
+CUST-1507,61.0,Female,3,99.99,245.25052299761856,m2m,Electronic check,No
+CUST-1508,,Female,0,29.85,3766.126846295587,One year,Mailed check,Yes
+CUST-1509,52.0,Female,5,,7550.188989515075,m2m,Mailed check,No
+CUST-1510,52.0,M,5,29.85,2658.174641729208,One year,Electronic check,No
+CUST-1511,45.0,Female,8,99.99,5323.011359586702,Month-to-month,Bank transfer,Yes
+CUST-1512,,F,0,99.99,5252.6592897462815,Two year,Credit card,No
+CUST-1513,61.0,Male,8,56.95,2083.5328189548254,m2m,Credit card,Yes
+CUST-1514,25.0,Male,0,29.85,5238.359465708528,One year,Electronic check,Yes
+CUST-1515,25.0,Male,8,99.99,1777.438396866441,Two year,Mailed check,No
+CUST-1516,34.0,Female,2,56.95,1063.8585672574236,m2m,Mailed check,Yes
+CUST-1517,61.0,F,3,,5640.927955921552,month to month,Credit card,No
+CUST-1518,-5.0,Male,3,56.95,996.1824551209422,One year,Electronic check,No
+CUST-1519,25.0,F,0,,7975.582826855907,month to month,Credit card,No
+CUST-1520,45.0,Male,1,29.85,1549.2739690868116,Month-to-month,Bank transfer,No
+CUST-1521,34.0,F,10,99.99,4793.720715776015,month to month,Bank transfer,Yes
+CUST-1522,150.0,Male,5,99.99,3349.859114159456,month to month,Electronic check,No
+CUST-1523,61.0,Male,5,99.99,1098.45273700477,Unknown,Electronic check,No
+CUST-1524,61.0,Female,0,29.85,319.96686986156584,One year,Bank transfer,No
+CUST-1525,45.0,Male,8,99.99,5019.585030113383,Month-to-month,Mailed check,No
+CUST-1526,45.0,Male,1,56.95,6473.384753934096,month to month,Electronic check,No
+CUST-1527,34.0,Male,2,99.99,6751.923725903278,Two year,Bank transfer,No
+CUST-1528,25.0,M,8,56.95,3913.4364373077824,m2m,Bank transfer,Yes
+CUST-1529,61.0,Female,8,105.5,6241.898190740846,month to month,Mailed check,No
+CUST-1530,61.0,Male,0,29.85,5415.492354559504,Month-to-month,Mailed check,Yes
+CUST-1531,-5.0,Female,0,105.5,5821.610767243153,month to month,Mailed check,No
+CUST-1532,-5.0,Female,5,105.5,3991.5321412523313,m2m,Mailed check,Yes
+CUST-1533,45.0,Male,0,105.5,5103.952747912804,Month-to-month,Credit card,Yes
+CUST-1534,61.0,Female,0,56.95,6463.65471725085,One year,Mailed check,No
+CUST-1535,,Male,0,56.95,3243.284986900482,Month-to-month,Credit card,No
+CUST-1536,61.0,Male,5,,6467.233316853912,One year,Electronic check,Yes
+CUST-1537,34.0,Female,2,29.85,4776.933058033596,Month-to-month,Bank transfer,No
+CUST-1538,45.0,Male,2,56.95,1410.6180925292113,m2m,Credit card,Yes
+CUST-1539,25.0,Female,10,99.99,295.00484207421846,m2m,Electronic check,No
+CUST-1540,150.0,Female,10,99.99,2965.7534431533013,Month-to-month,Electronic check,No
+CUST-1541,52.0,Male,0,29.85,4418.900993541085,month to month,Credit card,No
+CUST-1542,34.0,Female,10,99.99,6734.580782407558,m2m,Electronic check,Yes
+CUST-1543,52.0,Male,5,105.5,1107.136873107945,One year,Electronic check,No
+CUST-1544,52.0,,2,29.85,6421.630146700275,One year,Credit card,Yes
+CUST-1545,34.0,Female,8,,6917.7714639310925,Two year,Electronic check,Yes
+CUST-1546,25.0,M,2,29.85,1290.4311473065868,Unknown,Mailed check,No
+CUST-1547,52.0,Female,2,56.95,6827.5951225033305,Unknown,Mailed check,No
+CUST-1548,45.0,Male,5,29.85,7932.483185958057,Unknown,Bank transfer,Yes
+CUST-1549,61.0,Female,10,29.85,5842.026765281076,One year,Electronic check,No
+CUST-1550,45.0,F,8,,6299.680486417405,Two year,Bank transfer,Yes
+CUST-1551,61.0,Female,5,56.95,7955.8806137151005,Unknown,Mailed check,No
+CUST-1552,45.0,M,0,56.95,4883.301879154968,Unknown,Mailed check,No
+CUST-1553,45.0,F,3,29.85,2532.3024179283702,Month-to-month,Mailed check,Yes
+CUST-1554,61.0,Male,2,56.95,6716.49358920084,Month-to-month,Electronic check,No
+CUST-1555,45.0,Male,3,56.95,4954.437642341887,Month-to-month,Electronic check,No
+CUST-1556,25.0,Female,5,56.95,4691.443847395557,month to month,Mailed check,No
+CUST-1557,25.0,Female,5,56.95,2103.7208885609025,Unknown,Bank transfer,No
+CUST-1558,61.0,M,5,105.5,6075.040729704804,month to month,Bank transfer,No
+CUST-1559,52.0,F,3,56.95,745.1714792947604,Two year,Credit card,Yes
+CUST-1560,52.0,Male,5,56.95,7401.867859277823,One year,Mailed check,No
+CUST-1561,34.0,Male,0,29.85,2674.0053400868296,Unknown,Bank transfer,No
+CUST-1562,25.0,Female,5,99.99,1109.4197570409249,One year,Mailed check,No
+CUST-1563,25.0,Male,1,56.95,3594.6956115091084,Month-to-month,Bank transfer,No
+CUST-1564,34.0,M,10,56.95,435.5122831266119,Unknown,Credit card,No
+CUST-1565,45.0,Female,3,29.85,5508.546934693234,m2m,Credit card,Yes
+CUST-1566,34.0,Female,1,,7231.373532518314,month to month,Mailed check,Yes
+CUST-1567,45.0,Male,5,29.85,6714.377756394219,month to month,Bank transfer,No
+CUST-1568,,Female,0,99.99,1106.2188402382606,Unknown,Electronic check,No
+CUST-1569,34.0,Female,2,56.95,1097.5419831510817,Month-to-month,Credit card,No
+CUST-1570,45.0,Female,8,29.85,6526.132410361686,month to month,Mailed check,No
+CUST-1571,61.0,Male,10,99.99,7401.608769364616,Month-to-month,Mailed check,No
+CUST-1572,34.0,Female,8,56.95,3739.291655684565,Two year,Bank transfer,No
+CUST-1573,52.0,M,5,105.5,4041.871823618751,One year,Mailed check,No
+CUST-1574,61.0,Male,10,,2614.2701269472345,m2m,Credit card,No
+CUST-1575,,Male,10,105.5,7164.69443422567,One year,Mailed check,No
+CUST-1576,25.0,Male,0,29.85,5194.732951809612,One year,Mailed check,Yes
+CUST-1577,,Female,10,99.99,2377.187459622211,Two year,Electronic check,No
+CUST-1578,45.0,Female,3,56.95,2460.384681328588,month to month,Electronic check,No
+CUST-1579,34.0,Female,1,105.5,7140.480577202459,m2m,Credit card,No
+CUST-1580,45.0,Male,1,99.99,207.7087888559896,month to month,Bank transfer,No
+CUST-1581,-5.0,Male,1,105.5,2649.5399245404437,Unknown,Electronic check,Yes
+CUST-1582,45.0,Female,3,56.95,4479.417781609315,One year,Bank transfer,No
+CUST-1583,34.0,Female,8,56.95,1270.9179505846646,Unknown,Credit card,No
+CUST-1584,52.0,,0,29.85,827.5801581767594,Month-to-month,Electronic check,No
+CUST-1585,34.0,Male,10,99.99,6540.683015615424,One year,Bank transfer,Yes
+CUST-1586,25.0,Female,3,56.95,7165.794670323207,month to month,Electronic check,No
+CUST-1587,25.0,Female,1,56.95,6606.490724305697,One year,Credit card,No
+CUST-1588,25.0,Female,5,99.99,7200.424328925047,Month-to-month,Credit card,No
+CUST-1589,25.0,Female,2,56.95,4469.584571361135,Two year,Electronic check,No
+CUST-1590,25.0,Female,10,29.85,6516.839155823701,Unknown,Bank transfer,No
+CUST-1591,52.0,,3,56.95,3133.936843289693,Unknown,Mailed check,No
+CUST-1592,25.0,Male,3,56.95,5363.5161056844045,month to month,Mailed check,No
+CUST-1593,34.0,Male,0,56.95,7911.8006979744,One year,Electronic check,Yes
+CUST-1594,61.0,Female,0,29.85,1883.2490183291063,month to month,Bank transfer,No
+CUST-1595,45.0,Female,3,29.85,3180.2079956995367,Two year,Mailed check,No
+CUST-1596,52.0,Male,1,29.85,3892.374280749677,One year,Credit card,No
+CUST-1597,25.0,Male,2,99.99,1190.3223474584086,One year,Bank transfer,Yes
+CUST-1598,25.0,Male,10,29.85,740.2050226739485,month to month,Mailed check,No
+CUST-1599,25.0,F,0,56.95,6654.810643940833,month to month,Bank transfer,Yes
+CUST-1600,25.0,Male,10,,7816.675545337931,Month-to-month,Electronic check,No
+CUST-1601,34.0,Male,1,29.85,3297.328004254304,Two year,Bank transfer,No
+CUST-1602,25.0,Male,10,56.95,792.4337059377609,Month-to-month,Mailed check,No
+CUST-1603,25.0,Male,5,99.99,619.9129094555542,Unknown,Electronic check,No
+CUST-1604,25.0,Male,0,,7141.41383024636,One year,Bank transfer,Yes
+CUST-1605,45.0,Female,1,99.99,3764.1325728486713,month to month,Credit card,Yes
+CUST-1606,34.0,Male,1,99.99,2628.215800842896,One year,Mailed check,No
+CUST-1607,34.0,M,2,105.5,3864.044042791256,One year,Electronic check,No
+CUST-1608,45.0,Male,2,56.95,2614.602348069544,m2m,Bank transfer,Yes
+CUST-1609,52.0,Female,5,105.5,3963.382624930198,Unknown,Credit card,No
+CUST-1610,25.0,F,1,29.85,6890.495535651701,m2m,Mailed check,No
+CUST-1611,61.0,Female,8,,4779.180831390556,One year,Credit card,No
+CUST-1612,52.0,Female,1,56.95,5587.764805200385,month to month,Bank transfer,No
+CUST-1613,25.0,Male,2,56.95,2980.898342251259,One year,Bank transfer,No
+CUST-1614,61.0,Male,8,29.85,5934.196440233098,Unknown,Electronic check,No
+CUST-1615,,Female,0,99.99,5366.274970547041,m2m,Credit card,No
+CUST-1616,25.0,,0,29.85,1044.539782241246,month to month,Electronic check,No
+CUST-1617,34.0,Female,10,105.5,4623.878539613118,One year,Mailed check,No
+CUST-1618,61.0,Female,3,105.5,2128.2736208470883,Two year,Electronic check,No
+CUST-1619,52.0,Female,2,29.85,6452.355790105383,Unknown,Mailed check,Yes
+CUST-1620,25.0,Female,3,105.5,3464.9078968888216,Unknown,Bank transfer,No
+CUST-1621,34.0,Male,8,99.99,7958.004905052248,Two year,Bank transfer,No
+CUST-1622,34.0,Female,2,99.99,830.7534597178139,One year,Credit card,Yes
+CUST-1623,45.0,F,5,56.95,6264.748115647252,Unknown,Mailed check,Yes
+CUST-1624,52.0,Male,1,29.85,5422.243694983036,month to month,Bank transfer,No
+CUST-1625,34.0,Female,5,29.85,6163.240761666573,One year,Credit card,No
+CUST-1626,45.0,Male,8,56.95,2529.485384374605,One year,Credit card,Yes
+CUST-1627,52.0,Female,2,,3987.2304661209646,m2m,Electronic check,Yes
+CUST-1628,25.0,Male,8,29.85,6392.417305817296,Unknown,Credit card,Yes
+CUST-1629,34.0,Female,1,105.5,1937.0765198047543,Unknown,Bank transfer,Yes
+CUST-1630,52.0,Female,0,56.95,1885.6622546303515,Two year,Electronic check,No
+CUST-1631,61.0,Male,0,56.95,4453.302531029965,m2m,Mailed check,No
+CUST-1632,45.0,Female,8,99.99,4236.152278285861,m2m,Mailed check,No
+CUST-1633,45.0,Female,3,105.5,2329.873516262169,Unknown,Bank transfer,No
+CUST-1634,25.0,F,2,56.95,2454.7976391461,One year,Bank transfer,No
+CUST-1635,45.0,Male,2,56.95,2294.976789331868,m2m,Electronic check,No
+CUST-1636,45.0,Male,0,56.95,6194.945289788053,Two year,Electronic check,No
+CUST-1637,34.0,Male,10,29.85,5250.016837943439,m2m,Bank transfer,Yes
+CUST-1638,34.0,,5,29.85,6676.095748940997,Two year,Bank transfer,No
+CUST-1639,34.0,F,10,56.95,7806.236923680773,m2m,Mailed check,No
+CUST-1640,25.0,Female,1,56.95,3845.897940548693,Two year,Mailed check,No
+CUST-1641,34.0,M,5,99.99,626.881663103046,m2m,Mailed check,No
+CUST-1642,34.0,Female,5,56.95,479.9292522550799,m2m,Bank transfer,Yes
+CUST-1643,34.0,Female,8,56.95,2435.753810245791,month to month,Credit card,No
+CUST-1644,25.0,Male,0,56.95,7467.1022558843615,Two year,Bank transfer,Yes
+CUST-1645,61.0,Female,10,99.99,4233.383134269911,Two year,Bank transfer,No
+CUST-1646,45.0,Male,10,105.5,2247.1134770330204,Two year,Mailed check,No
+CUST-1647,52.0,M,0,56.95,3253.4176766370547,Month-to-month,Bank transfer,No
+CUST-1648,61.0,Female,10,99.99,4828.901348496899,m2m,Electronic check,No
+CUST-1649,45.0,Female,0,29.85,5258.302299288954,Two year,Bank transfer,Yes
+CUST-1650,25.0,Male,8,56.95,1315.9641272849497,Unknown,Bank transfer,No
+CUST-1651,45.0,Male,3,56.95,7818.55024470689,Month-to-month,Bank transfer,Yes
+CUST-1652,45.0,Male,5,56.95,4403.700593164032,month to month,Bank transfer,No
+CUST-1653,52.0,Male,8,99.99,1171.9377105590063,Two year,Credit card,Yes
+CUST-1654,45.0,Male,2,105.5,7159.718501434456,Two year,Bank transfer,No
+CUST-1655,25.0,F,1,29.85,689.6436055274876,Month-to-month,Electronic check,Yes
+CUST-1656,34.0,Female,3,99.99,7271.1099221023505,m2m,Electronic check,No
+CUST-1657,34.0,Male,2,56.95,7972.868684682961,Unknown,Bank transfer,No
+CUST-1658,52.0,Male,5,29.85,5633.411213336381,month to month,Mailed check,No
+CUST-1659,45.0,Female,10,29.85,6186.533046484519,Two year,Credit card,Yes
+CUST-1660,34.0,Female,0,56.95,2764.6924080931426,m2m,Bank transfer,No
+CUST-1661,-5.0,Female,5,29.85,7538.457136598076,Unknown,Bank transfer,No
+CUST-1662,52.0,F,8,29.85,4284.740332256104,Unknown,Bank transfer,Yes
+CUST-1663,34.0,Female,1,29.85,5885.868728120683,month to month,Mailed check,No
+CUST-1664,25.0,,8,56.95,7400.450955699108,One year,Mailed check,No
+CUST-1665,25.0,M,3,99.99,7803.921810206516,Unknown,Mailed check,No
+CUST-1666,34.0,Male,3,56.95,6682.314417113727,One year,Credit card,No
+CUST-1667,25.0,F,1,,2493.838305158037,Unknown,Electronic check,Yes
+CUST-1668,25.0,Male,2,56.95,7735.725380761451,month to month,Credit card,Yes
+CUST-1669,34.0,M,2,99.99,5062.144296824217,Month-to-month,Mailed check,No
+CUST-1670,25.0,Male,3,105.5,7452.075563180483,month to month,Electronic check,Yes
+CUST-1671,61.0,M,3,99.99,5441.22970393338,month to month,Electronic check,No
+CUST-1672,25.0,M,10,56.95,2527.187798596992,Month-to-month,Mailed check,No
+CUST-1673,45.0,M,0,99.99,3023.1937407282458,Month-to-month,Mailed check,No
+CUST-1674,45.0,Female,10,29.85,4448.72703911323,m2m,Credit card,No
+CUST-1675,-5.0,Male,10,56.95,6341.117248323068,Unknown,Mailed check,No
+CUST-1676,25.0,Male,2,56.95,2612.062155588646,m2m,Electronic check,Yes
+CUST-1677,34.0,Female,1,56.95,4679.876212460117,Month-to-month,Bank transfer,Yes
+CUST-1678,150.0,Male,2,29.85,2830.437449253572,One year,Mailed check,No
+CUST-1679,61.0,Female,0,,6544.5782966173465,One year,Mailed check,No
+CUST-1680,61.0,Male,8,99.99,3787.151940766808,month to month,Credit card,Yes
+CUST-1681,34.0,,3,56.95,706.1103321377933,Two year,Credit card,Yes
+CUST-1682,25.0,Female,3,,1411.8149197041373,month to month,Mailed check,Yes
+CUST-1683,52.0,M,0,56.95,582.7268741950951,month to month,Electronic check,No
+CUST-1684,,Male,10,,4044.493273513169,Two year,Electronic check,Yes
+CUST-1685,45.0,M,1,56.95,940.0646490509946,Unknown,Bank transfer,No
+CUST-1686,45.0,F,3,29.85,1001.7057575460937,Month-to-month,Mailed check,No
+CUST-1687,34.0,Female,5,99.99,7534.281254303179,One year,Credit card,No
+CUST-1688,61.0,Female,10,99.99,6993.975070190838,month to month,Electronic check,No
+CUST-1689,25.0,Female,3,99.99,3671.484114809791,Two year,Bank transfer,No
+CUST-1690,34.0,Male,5,,7887.862034716626,m2m,Mailed check,No
+CUST-1691,45.0,Female,0,99.99,101.4735725482386,month to month,Electronic check,No
+CUST-1692,45.0,Male,0,99.99,4950.437704559811,One year,Mailed check,Yes
+CUST-1693,34.0,Male,10,105.5,4969.782601237774,Month-to-month,Mailed check,No
+CUST-1694,25.0,Male,3,99.99,3713.8001413721167,month to month,Electronic check,No
+CUST-1695,52.0,Male,2,56.95,3235.888986180913,month to month,Electronic check,No
+CUST-1696,34.0,Male,5,105.5,3697.5267702968,Unknown,Electronic check,Yes
+CUST-1697,45.0,Male,1,29.85,3378.187445029476,Two year,Mailed check,No
+CUST-1698,25.0,,3,99.99,5870.8905721101655,m2m,Mailed check,No
+CUST-1699,45.0,Female,1,105.5,1169.307936288944,m2m,Bank transfer,No
+CUST-1700,45.0,,3,99.99,1661.3498426699282,Month-to-month,Credit card,Yes
+CUST-1701,25.0,Female,2,99.99,1526.0940043001465,One year,Mailed check,Yes
+CUST-1702,34.0,Male,2,99.99,2173.51762245799,Month-to-month,Credit card,No
+CUST-1703,25.0,Female,10,56.95,4249.541508374508,month to month,Electronic check,No
+CUST-1704,25.0,Female,10,105.5,978.549103971928,month to month,Mailed check,Yes
+CUST-1705,-5.0,Male,2,29.85,6958.537433079382,m2m,Bank transfer,No
+CUST-1706,34.0,Female,8,29.85,2449.1560973369315,One year,Bank transfer,No
+CUST-1707,61.0,Male,2,29.85,1384.050101002792,Two year,Credit card,No
+CUST-1708,34.0,Female,0,56.95,5437.408345826122,One year,Electronic check,No
+CUST-1709,52.0,Female,0,56.95,400.8817747346223,month to month,Credit card,No
+CUST-1710,61.0,Male,8,105.5,4997.751662505897,Two year,Electronic check,No
+CUST-1711,45.0,Male,5,56.95,5615.767602344348,One year,Bank transfer,No
+CUST-1712,45.0,Female,1,56.95,1797.8405979550814,One year,Credit card,Yes
+CUST-1713,45.0,Female,3,29.85,431.5161802047109,Two year,Bank transfer,No
+CUST-1714,34.0,Male,3,56.95,2972.798335463652,month to month,Bank transfer,Yes
+CUST-1715,,,8,99.99,878.8944189112982,One year,Electronic check,No
+CUST-1716,61.0,Male,0,29.85,1020.1750124193628,Two year,Credit card,No
+CUST-1717,150.0,Female,10,29.85,2108.66372841443,Unknown,Credit card,No
+CUST-1718,25.0,,3,29.85,2434.1966045513987,Unknown,Bank transfer,Yes
+CUST-1719,52.0,Male,0,29.85,4286.765694069223,month to month,Bank transfer,Yes
+CUST-1720,,Male,5,56.95,5459.295895473803,Two year,Electronic check,No
+CUST-1721,25.0,Male,1,29.85,4782.89043287446,Unknown,Mailed check,Yes
+CUST-1722,25.0,Male,5,99.99,1272.0466645871827,Two year,Mailed check,No
+CUST-1723,52.0,Male,8,105.5,1459.4796563757488,One year,Bank transfer,Yes
+CUST-1724,45.0,Female,2,56.95,7042.277073364025,month to month,Mailed check,Yes
+CUST-1725,61.0,Male,2,,4510.983289006498,Unknown,Mailed check,Yes
+CUST-1726,25.0,Female,2,56.95,6972.508879891743,One year,Mailed check,No
+CUST-1727,61.0,,5,56.95,3035.217439427008,Month-to-month,Mailed check,No
+CUST-1728,34.0,M,3,,4953.7600587074585,Month-to-month,Bank transfer,No
+CUST-1729,25.0,Female,1,29.85,4236.940986831425,month to month,Mailed check,No
+CUST-1730,25.0,Male,2,,2621.0755695816542,Unknown,Mailed check,No
+CUST-1731,61.0,Female,8,29.85,3812.331439065403,Unknown,Electronic check,No
+CUST-1732,52.0,Female,8,56.95,4069.677926932763,Unknown,Bank transfer,No
+CUST-1733,45.0,Female,2,29.85,1686.090700577761,Two year,Credit card,No
+CUST-1734,34.0,Male,2,99.99,2588.5819417761795,One year,Credit card,No
+CUST-1735,61.0,F,1,99.99,6352.137029005107,Unknown,Electronic check,No
+CUST-1736,34.0,Female,2,99.99,7334.727091687604,One year,Electronic check,Yes
+CUST-1737,61.0,Male,1,56.95,2942.373339007865,month to month,Bank transfer,No
+CUST-1738,45.0,Male,8,56.95,2525.0810294512435,Unknown,Credit card,No
+CUST-1739,34.0,Female,2,29.85,1642.057600117872,month to month,Mailed check,Yes
+CUST-1740,45.0,M,5,56.95,5460.080232339592,Unknown,Electronic check,No
+CUST-1741,34.0,Female,10,,2652.4876431640646,Month-to-month,Credit card,No
+CUST-1742,52.0,Female,5,56.95,7903.221358883589,m2m,Bank transfer,No
+CUST-1743,45.0,Male,8,105.5,2672.9099363052305,month to month,Mailed check,No
+CUST-1744,34.0,Female,1,105.5,3213.6747695827626,Unknown,Bank transfer,Yes
+CUST-1745,61.0,Female,5,56.95,4866.340150075074,m2m,Electronic check,No
+CUST-1746,34.0,Male,1,99.99,6433.3059162113095,month to month,Credit card,No
+CUST-1747,45.0,Male,5,29.85,3809.1974562305054,Two year,Credit card,No
+CUST-1748,,Female,5,29.85,3438.982666932771,Unknown,Credit card,No
+CUST-1749,52.0,Male,1,29.85,7965.538885398985,Two year,Credit card,Yes
+CUST-1750,25.0,Female,3,56.95,182.8997650055611,Month-to-month,Mailed check,No
+CUST-1751,,Male,5,56.95,7171.015781924842,Unknown,Mailed check,No
+CUST-1752,52.0,Male,2,56.95,1278.2125249239257,Month-to-month,Bank transfer,No
+CUST-1753,34.0,Male,10,56.95,6308.809682050416,m2m,Mailed check,No
+CUST-1754,25.0,,8,56.95,4981.659322785754,month to month,Electronic check,No
+CUST-1755,61.0,M,3,99.99,2800.593555434928,One year,Electronic check,Yes
+CUST-1756,52.0,F,1,99.99,7003.612148616045,Month-to-month,Credit card,Yes
+CUST-1757,45.0,Female,3,29.85,201.9671010498366,One year,Electronic check,Yes
+CUST-1758,61.0,Male,0,29.85,1890.856151391897,One year,Bank transfer,Yes
+CUST-1759,61.0,Female,0,99.99,4578.453090371335,month to month,Mailed check,No
+CUST-1760,25.0,Female,5,56.95,2877.183854392614,m2m,Mailed check,No
+CUST-1761,34.0,M,5,99.99,4921.982213014789,month to month,Mailed check,Yes
+CUST-1762,34.0,Male,2,56.95,290.4705279284679,Unknown,Electronic check,Yes
+CUST-1763,52.0,Female,10,56.95,1020.025550805529,Month-to-month,Mailed check,Yes
+CUST-1764,25.0,Male,8,29.85,1104.06029772567,One year,Credit card,No
+CUST-1765,45.0,Male,3,29.85,1595.3408027364746,month to month,Credit card,No
+CUST-1766,61.0,Female,0,99.99,3728.718382324288,month to month,Credit card,Yes
+CUST-1767,61.0,Female,5,56.95,6041.816726394212,month to month,Electronic check,Yes
+CUST-1768,34.0,Male,8,99.99,7253.756819638319,Month-to-month,Mailed check,Yes
+CUST-1769,61.0,Male,3,105.5,6699.442989245544,m2m,Electronic check,No
+CUST-1770,25.0,Female,5,56.95,1655.4141870279002,month to month,Mailed check,No
+CUST-1771,61.0,Female,5,99.99,3585.089362621996,Month-to-month,Bank transfer,No
+CUST-1772,25.0,F,0,56.95,1675.3516222924266,One year,Bank transfer,Yes
+CUST-1773,34.0,F,0,56.95,2189.3273516708077,Unknown,Electronic check,No
+CUST-1774,61.0,Female,5,99.99,4078.021153943901,Two year,Credit card,No
+CUST-1775,25.0,Male,1,56.95,638.061295315828,Month-to-month,Electronic check,Yes
+CUST-1776,34.0,Female,5,56.95,1823.5772037868585,Two year,Credit card,No
+CUST-1777,52.0,Female,8,29.85,7489.487474326226,month to month,Mailed check,Yes
+CUST-1778,52.0,Male,5,56.95,3782.318712002063,month to month,Credit card,No
+CUST-1779,52.0,M,2,105.5,3618.5535552251904,Month-to-month,Credit card,Yes
+CUST-1780,52.0,Male,10,105.5,215.08052253510328,Two year,Mailed check,No
+CUST-1781,45.0,F,2,99.99,2054.4580017609314,month to month,Bank transfer,Yes
+CUST-1782,34.0,Female,2,99.99,6943.710244259232,One year,Mailed check,Yes
+CUST-1783,34.0,Female,1,56.95,1400.5645832434832,m2m,Electronic check,No
+CUST-1784,25.0,Female,1,56.95,3379.4870223242965,m2m,Electronic check,No
+CUST-1785,,F,5,29.85,213.21415634930992,month to month,Electronic check,No
+CUST-1786,45.0,Female,2,56.95,3878.850305197391,Two year,Electronic check,No
+CUST-1787,45.0,Female,1,56.95,266.0667431371155,Unknown,Electronic check,Yes
+CUST-1788,45.0,Male,0,,6574.915469219819,month to month,Bank transfer,No
+CUST-1789,,Female,5,56.95,6616.344763148119,Unknown,Bank transfer,No
+CUST-1790,25.0,Male,8,56.95,6323.163287588722,Unknown,Credit card,No
+CUST-1791,45.0,Female,10,56.95,2338.576144239834,Two year,Electronic check,Yes
+CUST-1792,45.0,Female,3,99.99,6714.174023952362,Unknown,Mailed check,Yes
+CUST-1793,52.0,Female,5,99.99,4389.685247581628,One year,Electronic check,No
+CUST-1794,25.0,Male,3,29.85,3053.0840600493198,Two year,Bank transfer,No
+CUST-1795,61.0,Male,2,56.95,5040.106681663441,month to month,Electronic check,No
+CUST-1796,,Female,10,105.5,197.49426387695465,One year,Bank transfer,No
+CUST-1797,45.0,Male,3,56.95,1229.390933045942,Month-to-month,Credit card,No
+CUST-1798,52.0,Male,2,29.85,5964.118951545076,m2m,Credit card,No
+CUST-1799,,Male,0,99.99,2028.8767088576087,month to month,Credit card,No
+CUST-1800,52.0,F,3,105.5,4824.272026897122,month to month,Bank transfer,No
+CUST-1801,25.0,Female,10,29.85,3142.310562301934,month to month,Electronic check,No
+CUST-1802,45.0,Male,5,99.99,6852.965652514165,One year,Electronic check,No
+CUST-1803,52.0,Male,2,105.5,7624.080917373484,Month-to-month,Mailed check,No
+CUST-1804,45.0,Male,5,56.95,7080.161354124504,Two year,Bank transfer,Yes
+CUST-1805,52.0,Female,10,,2237.897958079413,Month-to-month,Mailed check,Yes
+CUST-1806,,Female,1,99.99,1633.88666546405,One year,Credit card,No
+CUST-1807,,Male,2,99.99,3848.0356596038064,month to month,Electronic check,No
+CUST-1808,45.0,Male,3,99.99,157.93979160582418,m2m,Bank transfer,Yes
+CUST-1809,25.0,Male,2,29.85,303.89420361913574,month to month,Mailed check,Yes
+CUST-1810,-5.0,Female,5,29.85,4470.9960530217,Two year,Mailed check,No
+CUST-1811,61.0,Female,0,56.95,4211.550292905759,Unknown,Mailed check,No
+CUST-1812,25.0,Male,2,29.85,7957.197713378554,m2m,Electronic check,No
+CUST-1813,,Male,3,56.95,1694.550499373689,month to month,Electronic check,No
+CUST-1814,61.0,Male,1,105.5,2139.0210403677006,m2m,Electronic check,No
+CUST-1815,45.0,,8,105.5,996.9710743776648,Unknown,Bank transfer,No
+CUST-1816,45.0,Male,0,99.99,7348.589776264583,Month-to-month,Electronic check,No
+CUST-1817,34.0,Female,1,105.5,6244.708831221761,One year,Bank transfer,No
+CUST-1818,25.0,Female,2,99.99,6596.478980509095,month to month,Mailed check,No
+CUST-1819,34.0,Male,5,56.95,7231.833924919619,Two year,Mailed check,No
+CUST-1820,61.0,Male,10,29.85,4246.709895134122,Month-to-month,Credit card,No
+CUST-1821,25.0,Male,5,56.95,3664.426212460717,month to month,Electronic check,No
+CUST-1822,34.0,Female,3,99.99,2710.09264195837,Month-to-month,Mailed check,No
+CUST-1823,34.0,Female,5,56.95,4754.795453348059,Two year,Electronic check,Yes
+CUST-1824,45.0,Female,0,99.99,3688.799334639598,month to month,Bank transfer,No
+CUST-1825,,Female,5,29.85,3667.3681341840434,Unknown,Mailed check,Yes
+CUST-1826,34.0,Male,3,99.99,7501.730123475997,Unknown,Electronic check,Yes
+CUST-1827,34.0,,8,105.5,7873.848962805128,Two year,Mailed check,No
+CUST-1828,52.0,Female,2,99.99,6392.226675703688,m2m,Mailed check,No
+CUST-1829,45.0,Male,10,,6078.388912950733,Two year,Electronic check,No
+CUST-1830,34.0,,2,105.5,5476.409478054901,m2m,Mailed check,Yes
+CUST-1831,45.0,Female,5,,1411.9913334347584,month to month,Mailed check,Yes
+CUST-1832,25.0,Female,1,,566.9359849176708,m2m,Mailed check,Yes
+CUST-1833,25.0,Female,2,105.5,5556.737889394779,month to month,Mailed check,No
+CUST-1834,45.0,M,8,99.99,5857.411155826951,month to month,Bank transfer,No
+CUST-1835,45.0,Female,5,29.85,471.0866296753044,One year,Mailed check,No
+CUST-1836,,Male,10,56.95,7431.6088268079,month to month,Credit card,No
+CUST-1837,34.0,Male,3,56.95,820.0110516129525,m2m,Mailed check,No
+CUST-1838,45.0,F,8,56.95,2358.614216792499,One year,Electronic check,No
+CUST-1839,52.0,Male,5,56.95,5411.879521109765,One year,Credit card,Yes
+CUST-1840,25.0,Male,8,,1441.993495795363,month to month,Bank transfer,No
+CUST-1841,52.0,Female,2,105.5,537.7855186937311,Two year,Credit card,No
+CUST-1842,25.0,Female,10,105.5,2716.0572643967835,Two year,Credit card,No
+CUST-1843,150.0,Female,3,56.95,6151.175441355915,Unknown,Credit card,Yes
+CUST-1844,25.0,F,5,29.85,3368.061563983557,One year,Electronic check,Yes
+CUST-1845,45.0,Male,0,29.85,5258.48608307272,month to month,Electronic check,No
+CUST-1846,25.0,Male,3,56.95,4678.99086810228,Two year,Electronic check,No
+CUST-1847,-5.0,Male,0,29.85,275.52600800208523,month to month,Bank transfer,No
+CUST-1848,45.0,F,8,29.85,7909.465897661083,month to month,Electronic check,Yes
+CUST-1849,45.0,Female,1,,427.2819016731633,One year,Electronic check,No
+CUST-1850,25.0,Male,3,99.99,7745.641627423031,Unknown,Credit card,No
+CUST-1851,52.0,M,8,56.95,4443.927009078746,One year,Electronic check,No
+CUST-1852,34.0,M,0,29.85,7708.956313814026,Month-to-month,Mailed check,No
+CUST-1853,61.0,M,2,56.95,1006.5534353693,Two year,Electronic check,Yes
+CUST-1854,34.0,F,2,29.85,3974.227301565554,Two year,Bank transfer,No
+CUST-1855,25.0,Male,1,,1439.082325741863,Two year,Bank transfer,No
+CUST-1856,25.0,Female,3,56.95,502.701528477295,m2m,Mailed check,No
+CUST-1857,45.0,Female,3,56.95,4978.480008992261,month to month,Bank transfer,No
+CUST-1858,45.0,M,3,56.95,1741.4890255973623,One year,Bank transfer,Yes
+CUST-1859,25.0,Female,8,29.85,4742.806444471613,Two year,Credit card,No
+CUST-1860,61.0,Female,10,99.99,987.6794073969864,Month-to-month,Mailed check,Yes
+CUST-1861,45.0,Female,10,99.99,2722.693124318352,Two year,Credit card,Yes
+CUST-1862,45.0,Male,1,99.99,6274.897208620652,Unknown,Credit card,No
+CUST-1863,45.0,Female,3,29.85,3552.7070225532825,month to month,Electronic check,No
+CUST-1864,45.0,,8,56.95,5059.188777688957,month to month,Mailed check,No
+CUST-1865,45.0,F,2,56.95,5214.917731889813,One year,Electronic check,Yes
+CUST-1866,25.0,Male,0,105.5,6765.66484749962,m2m,Electronic check,No
+CUST-1867,25.0,Male,8,56.95,2666.8900758124664,One year,Credit card,No
+CUST-1868,61.0,Male,10,56.95,5529.634944401889,Two year,Bank transfer,No
+CUST-1869,,Female,10,99.99,7696.764875664709,Unknown,Mailed check,Yes
+CUST-1870,34.0,M,2,99.99,5868.922341427157,Month-to-month,Bank transfer,No
+CUST-1871,34.0,Male,2,56.95,3969.976766070182,One year,Credit card,No
+CUST-1872,52.0,Female,0,56.95,5082.667811486241,m2m,Credit card,No
+CUST-1873,45.0,M,2,56.95,5943.494892328555,One year,Credit card,No
+CUST-1874,25.0,Female,1,105.5,4936.978548981592,month to month,Credit card,Yes
+CUST-1875,25.0,Female,0,56.95,231.7389265697293,Two year,Credit card,No
+CUST-1876,52.0,Female,2,,1638.7106317290843,Two year,Credit card,Yes
+CUST-1877,52.0,Female,5,56.95,6502.698916002181,Two year,Bank transfer,No
+CUST-1878,25.0,Male,8,,2253.940113768629,Two year,Electronic check,No
+CUST-1879,34.0,Female,2,105.5,5879.340744532958,Two year,Bank transfer,No
+CUST-1880,34.0,Female,1,56.95,3039.74970040942,Two year,Mailed check,No
+CUST-1881,52.0,M,3,105.5,4222.886192447752,Month-to-month,Bank transfer,No
+CUST-1882,25.0,Female,2,29.85,636.9890685732893,m2m,Credit card,No
+CUST-1883,25.0,Female,10,,1531.6819322927054,Two year,Bank transfer,No
+CUST-1884,61.0,Male,10,99.99,7661.856011801953,m2m,Electronic check,No
+CUST-1885,25.0,Female,10,29.85,7132.09062223062,Unknown,Mailed check,No
+CUST-1886,52.0,Male,3,99.99,5252.973376102496,Two year,Bank transfer,Yes
+CUST-1887,34.0,Male,10,,3731.192319347325,One year,Electronic check,No
+CUST-1888,25.0,Female,5,29.85,5438.514213872268,Two year,Bank transfer,No
+CUST-1889,34.0,,2,56.95,4987.021283842119,month to month,Mailed check,No
+CUST-1890,52.0,Male,10,99.99,4591.562819276435,Month-to-month,Bank transfer,Yes
+CUST-1891,61.0,Female,0,105.5,567.4988677219803,One year,Credit card,Yes
+CUST-1892,61.0,M,3,56.95,5099.1406242259045,One year,Bank transfer,No
+CUST-1893,34.0,Male,5,29.85,6174.46835211223,month to month,Electronic check,Yes
+CUST-1894,52.0,Female,0,29.85,7953.2450717000465,Two year,Bank transfer,No
+CUST-1895,34.0,Female,0,56.95,187.52056549504644,Month-to-month,Electronic check,No
+CUST-1896,34.0,Female,0,56.95,5868.370281154345,One year,Mailed check,Yes
+CUST-1897,61.0,Male,0,,4617.135595894246,Month-to-month,Bank transfer,Yes
+CUST-1898,25.0,Male,2,29.85,3529.012191039558,One year,Mailed check,No
+CUST-1899,25.0,Female,10,99.99,1107.8043791138298,Two year,Mailed check,Yes
+CUST-1900,34.0,Female,8,29.85,3331.7726742155223,Unknown,Bank transfer,No
+CUST-1901,25.0,Male,2,29.85,2899.579745590469,One year,Electronic check,Yes
+CUST-1902,25.0,Female,2,56.95,2492.3561229320635,Unknown,Mailed check,No
+CUST-1903,45.0,Male,5,56.95,5873.94902424544,One year,Mailed check,No
+CUST-1904,45.0,Female,5,99.99,5635.731618145684,m2m,Bank transfer,No
+CUST-1905,61.0,Male,10,,4753.258718749202,Two year,Bank transfer,No
+CUST-1906,61.0,F,8,99.99,7515.452025017641,month to month,Bank transfer,No
+CUST-1907,34.0,Male,5,,2863.84963502875,Unknown,Bank transfer,No
+CUST-1908,34.0,Male,10,105.5,2026.0353079104184,month to month,Bank transfer,No
+CUST-1909,34.0,Male,10,56.95,5281.636173477356,Two year,Credit card,No
+CUST-1910,45.0,Male,1,105.5,1670.6310814054832,month to month,Bank transfer,No
+CUST-1911,34.0,M,8,99.99,2588.583006749054,Two year,Electronic check,No
+CUST-1912,52.0,,5,29.85,1874.3592765915903,month to month,Mailed check,No
+CUST-1913,45.0,Male,8,99.99,646.3131849761597,Unknown,Electronic check,Yes
+CUST-1914,45.0,Female,2,29.85,6637.24005892182,m2m,Electronic check,Yes
+CUST-1915,45.0,Female,2,56.95,2110.8702890811232,month to month,Credit card,Yes
+CUST-1916,34.0,F,8,99.99,3836.917276409864,Unknown,Bank transfer,No
+CUST-1917,,Female,1,29.85,442.1906587090644,One year,Mailed check,Yes
+CUST-1918,61.0,Male,1,29.85,5624.781783395881,Two year,Electronic check,No
+CUST-1919,25.0,Female,8,,2711.4319182196973,Month-to-month,Bank transfer,No
+CUST-1920,61.0,Female,5,99.99,5983.420149850759,Month-to-month,Bank transfer,No
+CUST-1921,45.0,Male,3,29.85,3357.9841776961425,Two year,Credit card,Yes
+CUST-1922,61.0,Female,1,99.99,1646.4692906044345,m2m,Credit card,No
+CUST-1923,61.0,Male,0,56.95,4154.083150028084,month to month,Credit card,No
+CUST-1924,45.0,Female,2,56.95,1130.9860211357743,m2m,Mailed check,No
+CUST-1925,25.0,Male,8,,3580.259362996658,Month-to-month,Electronic check,Yes
+CUST-1926,34.0,Female,0,99.99,2606.7132716218434,Unknown,Credit card,No
+CUST-1927,45.0,Female,8,56.95,7304.480715177102,Two year,Credit card,No
+CUST-1928,52.0,Female,10,105.5,581.3369015936876,Two year,Credit card,No
+CUST-1929,34.0,Male,2,105.5,5582.737571435362,m2m,Electronic check,No
+CUST-1930,25.0,Female,2,29.85,1543.7342113007437,Unknown,Electronic check,No
+CUST-1931,61.0,Female,1,29.85,2620.456087224695,m2m,Credit card,No
+CUST-1932,-5.0,Female,1,29.85,3382.561098190321,month to month,Credit card,Yes
+CUST-1933,45.0,Female,0,99.99,7273.319206062296,One year,Bank transfer,No
+CUST-1934,25.0,Female,10,99.99,2016.3683019832188,Unknown,Credit card,No
+CUST-1935,34.0,M,8,99.99,821.3395401028947,One year,Mailed check,No
+CUST-1936,25.0,Male,10,,2617.6478715251365,month to month,Mailed check,No
+CUST-1937,,M,2,99.99,926.9401672307134,One year,Credit card,No
+CUST-1938,25.0,Female,0,29.85,1115.912239088365,Month-to-month,Electronic check,No
+CUST-1939,45.0,Male,3,56.95,4633.419724002711,One year,Bank transfer,No
+CUST-1940,34.0,Male,0,56.95,581.1252714859972,month to month,Electronic check,Yes
+CUST-1941,45.0,Male,5,56.95,344.3539630091717,One year,Credit card,No
+CUST-1942,52.0,Female,0,99.99,5743.871401616932,Two year,Mailed check,No
+CUST-1943,61.0,Female,10,105.5,2957.012049244252,m2m,Bank transfer,Yes
+CUST-1944,34.0,Female,5,56.95,1090.465258947599,Month-to-month,Electronic check,No
+CUST-1945,25.0,Female,5,56.95,2103.540889791695,Two year,Electronic check,Yes
+CUST-1946,25.0,Female,5,99.99,5172.483408083952,Two year,Credit card,No
+CUST-1947,,Male,3,56.95,2276.7388804127245,month to month,Bank transfer,No
+CUST-1948,61.0,Male,0,29.85,4006.716888451223,m2m,Mailed check,Yes
+CUST-1949,45.0,Female,10,56.95,1061.392923140711,m2m,Credit card,No
+CUST-1950,52.0,Male,0,29.85,4745.939737083031,Unknown,Bank transfer,No
+CUST-1951,52.0,Male,3,,2597.0137023617863,Month-to-month,Electronic check,Yes
+CUST-1952,25.0,Female,2,29.85,5053.050632776861,month to month,Credit card,No
+CUST-1953,,Female,1,56.95,6486.319570201781,Month-to-month,Electronic check,No
+CUST-1954,45.0,,10,56.95,4932.00671318094,Unknown,Electronic check,No
+CUST-1955,34.0,F,10,,2436.405744500664,One year,Credit card,Yes
+CUST-1956,45.0,Female,0,29.85,2120.375242231573,Two year,Credit card,Yes
+CUST-1957,25.0,Female,1,29.85,2686.6255739942394,Month-to-month,Credit card,No
+CUST-1958,25.0,Female,8,29.85,1400.5020545683883,Two year,Credit card,No
+CUST-1959,52.0,Female,8,29.85,1531.2576217151586,month to month,Credit card,Yes
+CUST-1960,25.0,Male,3,29.85,6346.459705011326,One year,Electronic check,No
+CUST-1961,52.0,Female,8,99.99,3139.387354408815,month to month,Mailed check,No
+CUST-1962,34.0,M,10,29.85,3544.361926507628,One year,Mailed check,Yes
+CUST-1963,34.0,Male,8,29.85,4792.990777977808,One year,Credit card,Yes
+CUST-1964,34.0,Female,2,105.5,4758.262611697226,Two year,Electronic check,Yes
+CUST-1965,34.0,Female,2,56.95,632.2772850232133,month to month,Mailed check,No
+CUST-1966,52.0,Male,2,56.95,6669.172212067559,month to month,Mailed check,No
+CUST-1967,34.0,Male,8,56.95,1500.8797704691217,Month-to-month,Mailed check,No
+CUST-1968,45.0,Male,3,,5812.265924792384,month to month,Electronic check,No
+CUST-1969,45.0,Male,5,29.85,6204.100806212516,Month-to-month,Credit card,No
+CUST-1970,52.0,Male,5,105.5,5747.706319321378,m2m,Credit card,Yes
+CUST-1971,,M,1,99.99,4673.923407777747,m2m,Credit card,No
+CUST-1972,52.0,Male,5,29.85,215.41107716017456,m2m,Bank transfer,Yes
+CUST-1973,34.0,Female,5,,2946.966389669049,Unknown,Bank transfer,No
+CUST-1974,25.0,Male,2,29.85,4878.231491964391,month to month,Bank transfer,No
+CUST-1975,34.0,F,2,29.85,3160.865237788056,Unknown,Electronic check,No
+CUST-1976,45.0,Male,8,105.5,6921.491169811224,month to month,Mailed check,No
+CUST-1977,25.0,Female,1,99.99,2539.537975261961,Month-to-month,Mailed check,No
+CUST-1978,45.0,M,0,99.99,2418.9248604234176,Unknown,Electronic check,Yes
+CUST-1979,45.0,M,10,29.85,2201.381775431998,Unknown,Electronic check,Yes
+CUST-1980,34.0,Male,1,56.95,2728.9688647902844,Unknown,Credit card,No
+CUST-1981,61.0,M,1,99.99,4503.499218082079,One year,Credit card,No
+CUST-1982,25.0,Female,3,56.95,5685.420824753467,Month-to-month,Bank transfer,Yes
+CUST-1983,25.0,Female,8,56.95,5334.286550136402,m2m,Bank transfer,No
+CUST-1984,52.0,Male,3,29.85,6480.9707778536895,Month-to-month,Electronic check,No
+CUST-1985,45.0,Male,1,29.85,7098.720564429656,One year,Bank transfer,No
+CUST-1986,52.0,Female,1,105.5,6547.024434512475,month to month,Mailed check,Yes
+CUST-1987,45.0,Female,1,56.95,249.66868665740117,Month-to-month,Electronic check,No
+CUST-1988,34.0,Female,5,,5913.751833060711,Unknown,Electronic check,No
+CUST-1989,61.0,Female,10,56.95,1746.3566315848198,m2m,Mailed check,Yes
+CUST-1990,61.0,Female,10,99.99,1150.131537393063,m2m,Credit card,No
+CUST-1991,52.0,Male,3,29.85,5144.06139991317,month to month,Credit card,No
+CUST-1992,34.0,Female,1,56.95,2625.97124372079,Month-to-month,Mailed check,No
+CUST-1993,45.0,Male,10,29.85,551.2255906265018,One year,Mailed check,Yes
+CUST-1994,34.0,Female,2,56.95,1187.2749017470546,month to month,Bank transfer,No
+CUST-1995,25.0,Female,10,56.95,107.3423932726924,Month-to-month,Electronic check,Yes
+CUST-1996,,F,8,,7235.466656023187,Two year,Bank transfer,No
+CUST-1997,25.0,Male,8,99.99,294.48207234578484,m2m,Mailed check,No
+CUST-1998,150.0,Male,10,29.85,1754.7005791251374,One year,Bank transfer,Yes
+CUST-1999,45.0,Male,2,29.85,3388.475967434468,Unknown,Mailed check,No
+CUST-1000,34.0,Male,3,29.85,1098.2162023846338,Two year,Credit card,No
+CUST-1001,150.0,Female,10,56.95,4544.186090057075,month to month,Mailed check,Yes
+CUST-1002,52.0,M,2,105.5,6144.766597652454,One year,Credit card,No
+CUST-1003,45.0,Female,10,56.95,7529.311737675901,Month-to-month,Bank transfer,Yes
+CUST-1004,25.0,M,3,29.85,225.00305877488444,One year,Mailed check,Yes
+CUST-1005,25.0,Female,8,29.85,4229.805118338772,month to month,Electronic check,No
+CUST-1006,25.0,Female,1,29.85,3819.852114163096,Unknown,Mailed check,No
+CUST-1007,61.0,M,8,56.95,5282.834673608061,One year,Mailed check,No
+CUST-1008,52.0,Male,10,99.99,4520.672950276201,Two year,Electronic check,No
+CUST-1009,52.0,Female,1,29.85,5527.609289601596,Two year,Mailed check,No
